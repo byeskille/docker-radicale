@@ -1,3 +1,5 @@
 Dockerfile.*
 __pycache__
 .pytest_cache
+data/
+.DS_Store
